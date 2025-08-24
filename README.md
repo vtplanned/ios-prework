@@ -20,7 +20,7 @@ https://imgur.com/a/7sxBv1K
 
 https://i.imgur.com/bBijJ4j.gif 
 
- 
+![Alt text](https://i.imgur.com/bBijJ4j.gif)
 
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
