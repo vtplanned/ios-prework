@@ -18,7 +18,7 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 https://imgur.com/a/7sxBv1K 
 
-https://i.imgur.com/QPkQlqW.mp4
+https://i.imgur.com/bBijJ4j.gif 
 
  
 
